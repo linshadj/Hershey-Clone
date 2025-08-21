@@ -18,3 +18,13 @@
     font-family: "TT Norms Pro Bold";
     src: url(../fonts/TTNormsPro-Bold.ttf);
 }
+
+.disclaimer{
+    position: fixed;
+    height: max-content;
+    padding: 2px !important;
+    width: 100%;
+    z-index: 1001;
+    font-size: 12px;
+    top: 0;
+}
